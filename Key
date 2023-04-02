@@ -1,1 +1,2 @@
-LirDev
+local key = "LirDev"
+return key
